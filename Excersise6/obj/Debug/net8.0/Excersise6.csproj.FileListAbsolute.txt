@@ -1,0 +1,14 @@
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\bin\Debug\net8.0\Excersise6.exe
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\bin\Debug\net8.0\Excersise6.deps.json
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\bin\Debug\net8.0\Excersise6.runtimeconfig.json
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\bin\Debug\net8.0\Excersise6.dll
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\bin\Debug\net8.0\Excersise6.pdb
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\obj\Debug\net8.0\Excersise6.GeneratedMSBuildEditorConfig.editorconfig
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\obj\Debug\net8.0\Excersise6.AssemblyInfoInputs.cache
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\obj\Debug\net8.0\Excersise6.AssemblyInfo.cs
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\obj\Debug\net8.0\Excersise6.csproj.CoreCompileInputs.cache
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\obj\Debug\net8.0\Excersise6.dll
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\obj\Debug\net8.0\refint\Excersise6.dll
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\obj\Debug\net8.0\Excersise6.pdb
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\obj\Debug\net8.0\Excersise6.genruntimeconfig.cache
+E:\458.36.012.24.89\C#\Excersise6\Excersise6\obj\Debug\net8.0\ref\Excersise6.dll
